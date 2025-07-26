@@ -1,4 +1,4 @@
- coherence_score,silhouette_score,avg_of_coherence_and_silhouette,num_topics,withoutNoiseNumTopics
+coherence_score,silhouette_score,avg_of_coherence_and_silhouette,num_topics,withoutNoiseNumTopics
 0.49075254929877277,0.062035795,0.27639417229998586,4,4
 0.4965692325641117,0.06221442,0.2793918259049158,5,5
 0.4917767862385691,0.05667999,0.2742283881905765,6,6
