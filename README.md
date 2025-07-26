@@ -1,4 +1,4 @@
-# A  hybrid transformer architecture for unsupervised aspect based sentiment analysis
+# A hybrid transformer architecture for unsupervised aspect based sentiment analysis
 
 ## 🎯 Overview
 
